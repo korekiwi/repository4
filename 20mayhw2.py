@@ -1,6 +1,6 @@
 import re
 
-with open(r'file1.txt', 'r', encoding='utf-8') as file:
+with open(r'file7.txt', 'r', encoding='utf-8') as file:
     data = file.readlines()
 
 count_data_symbols = 0
